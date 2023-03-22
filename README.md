@@ -1,11 +1,12 @@
-# STATIC
+location: https://tanghaochen.github.io/ATangBigDate/
 
-**This directory is not required, you can delete it if you don't want to use it.**
+### describe
+1. 2个月的项目, 结合echartsJs实现了各种动画和过度效果
+2. 接口和数据丢失, 网站不能正常显示.
+3. 尺寸定制为1920*1080, 没有做响应适配.
+4. 公司项目, 代码不对外开放
+5. 该github代码没有经过webpack, 直接`nuxt generate`生成
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+### 价值
+1. 找工作时展示
+2. 动画实现的代码略有参考价值
